@@ -1,0 +1,20 @@
+h1 {
+  color: #4592AF;
+
+    font-family: 'Sacramento', cursive;
+  width:20%;
+  font-size: 90px;
+
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+.hobb{
+text-align: center;
+}
+
+img:hover{
+    background-color: #99235c;
+}
+.hobbypng{
+    text-align: center;
+}
